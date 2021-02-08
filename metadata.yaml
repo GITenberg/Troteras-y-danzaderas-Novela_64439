@@ -1,0 +1,32 @@
+_repo: Troteras-y-danzaderas-Novela_64439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez de Ayala, Ramón
+    aliases:
+    - De Ayala, Ramón Pérez
+    - Cuevas, Plotino
+    - Ayala, Ramón Pérez de
+    - Perez de Ayala, Ramon
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '5470'
+    url: http://www.gutenberg.org/2009/agents/5470
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
+    - https://es.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
+description: ''
+gutenberg_issued: '2021-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64439'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Troteras y danzaderas
+
+  Novela'
+url: http://www.gutenberg.org/ebooks/64439
